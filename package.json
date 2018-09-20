@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sneas/cordova-HTTP2.git"
+    "url": "git+https://github.com/monkeychops/cordova-HTTP2.git"
   },
   "keywords": [
     "cordova",
